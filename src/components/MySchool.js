@@ -2,9 +2,9 @@ import { Card, CardContent, CardMedia, Grid, Slider, Typography } from '@mui/mat
 import React, { useState } from 'react';
 
 const schoolImages = [
-    "https://upload.wikimedia.org/wikipedia/commons/5/51/Pataskala_Elementary_School.jpg",
-    "https://images6.fanpop.com/image/photos/36800000/School-image-school-36812026-3888-2592.jpg",
-    "https://cdnassets.hw.net/b6/7d/95e393ff4c8296702e5e63979e3e/40b17d69b0b2434486fc7f485d3f44fc.jpg"
+    "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/media/images/image_1486098911-3d5ad1b977.jpg",
+    "https://archives1.sundayobserver.lk/sites/default/files/styles/large/public/news/2019/02/16/z_p27-Swimming-1.jpg?itok=w32Rfk3I",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ20MlrhT7Z0Q5toBtKXq1viVSOGf7NcpjSg&usqp=CAU"
 ];
 function MySchool(){
     const [sliderValue, setSliderValue] = useState(0);

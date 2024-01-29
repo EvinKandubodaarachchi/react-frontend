@@ -35,10 +35,10 @@ function AboutMe(){
                             src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"
                             sx={{width: 80, height: 80, marginBottom : 2}} />
                             <Typography variant="h6" gutterBottom>
-                                Hello My Friends! Welcome to my Web App!
+                                Hello My Friends! I'm Evin Evmith. Welcome to my Web App!
                             </Typography>
                             <Typography>
-                                I am an enthusiastic Programmer. I hereby welcome you to my React Web Application. 
+                                I am an enthusiastic Programmer. I hereby welcome you to my React Web Application.<br></br> I'm 14 years old. I live in Kaduwela. I study at President's College - Kotte.<br></br> I favourite sport is Cricket. My ambition is to become a Software Engineer.  
                             </Typography>
                         </CardContent>
                     </AnimatedCard>
@@ -65,7 +65,7 @@ function AboutMe(){
                     <Grid item>
                         <Typography color="textSecondary" variant='h6'> Akindu Uthmika </Typography>
                         <Typography> Expertise : HTML, C#, Processing, React </Typography>
-                        <Typography> Hi my name is Akindu Uthmika. I am a Software Developer. I'm 14 years old. I study at President's College - Kotte </Typography>
+                        <Typography> Hi my name is Akindu Uthmika. I am a Software Developer. <br></br>I'm 14 years old. I study at President's College - Kotte </Typography>
 
                     </Grid>
                 </Grid>
@@ -74,14 +74,14 @@ function AboutMe(){
                     <Grid item>
                         <Avatar
                             alt="My Username"
-                            src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"
+                            src="https://i.pinimg.com/474x/0a/a8/58/0aa8581c2cb0aa948d63ce3ddad90c81.jpg"
                             sx={{ width: 60, height: 60 }}
                         />
                     </Grid>
                     <Grid item>
                         <Typography color="textSecondary" variant='h6'> Kavinu Chenul </Typography>
                         <Typography > Expertise : HTML, C#, Processing, React </Typography>
-                        <Typography > Hi my name is Kavinu Chenul. I am a Software Developer. I'm 14 years old. I study at President's College - Kotte </Typography>
+                        <Typography > Hi my name is Kavinu Chenul. I am a Software Developer. <br></br>I'm 14 years old. I study at President's College - Kotte </Typography>
                     </Grid>
                 </Grid>
                 <hr></hr>
@@ -96,7 +96,7 @@ function AboutMe(){
                     <Grid item>
                         <Typography color="textSecondary" variant='h6'> Nethum Shakya </Typography>
                         <Typography > Expertise : HTML, C#, Processing, React </Typography>
-                        <Typography > Hi my name is Nethum Shakya. I am a Software Developer. I'm 14 years old. I study at President's College - Kotte </Typography>
+                        <Typography > Hi my name is Nethum Shakya. I am a Software Developer. <br></br>I'm 14 years old. I study at President's College - Kotte </Typography>
                     </Grid>
                 </Grid>
             </CardContent>
