@@ -5,10 +5,10 @@ import { PaidOutlined } from '@mui/icons-material';
 const UserProfile = ()  => {
 
     const user = {
-        name : 'Tharindu Nanayakkara',
-        school : 'Central College, Colombo',
-        dob : 'January 3rd, 2009',
-        email : 'tharindu@gmail.com',
+        name : 'Evin Kandubodaarachchi',
+        school : 'Presidents College - Kotte',
+        dob : 'September 10rd, 2009',
+        email : 'evin_kandubodaarachchi@yahoo.com',
         description : 'I am a programming enthusiast!',
         hobby : '',
         hometown : '',
@@ -23,7 +23,7 @@ const UserProfile = ()  => {
             <Paper style={{padding : 20 , textAlign : 'center' , alignItems : 'center', display : 'flex', justifyContent : 'center', flexDirection: 'column'}}>
                 <Avatar 
                 alt="My Image"
-                src="https://lakeoktransport.ca/images/avataaars3.png"
+                src="https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
                 sx={{width : 120 , height : 120}} />
                 <Typography variant="subtitle1">
                     {user.name}

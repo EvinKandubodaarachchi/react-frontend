@@ -32,7 +32,7 @@ function AboutMe(){
                     style={{transform: expanded ? 'scale(1.25)' : 'scale(1)' }}>
                         <CardContent>
                             <Avatar alt="My Avatar"
-                            src="https://lakeoktransport.ca/images/avataaars4.png"
+                            src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"
                             sx={{width: 80, height: 80, marginBottom : 2}} />
                             <Typography variant="h6" gutterBottom>
                                 Hello My Friends! Welcome to my Web App!
@@ -58,14 +58,14 @@ function AboutMe(){
                     <Grid item>
                         <Avatar
                             alt="My Username"
-                            src="https://lakeoktransport.ca/images/avataaars1.png"
+                            src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"
                             sx={{ width: 60, height: 60 }}
                         />
                     </Grid>
                     <Grid item>
-                        <Typography color="textSecondary" variant='h6'> Sandun Nawarathna </Typography>
+                        <Typography color="textSecondary" variant='h6'> Akindu Uthmika </Typography>
                         <Typography> Expertise : HTML, C#, Processing, React </Typography>
-                        <Typography> Hi my name is Sandun Nawarathna. I am a Software Developer. </Typography>
+                        <Typography> Hi my name is Akindu Uthmika. I am a Software Developer. I'm 14 years old. I study at President's College - Kotte </Typography>
 
                     </Grid>
                 </Grid>
@@ -74,14 +74,14 @@ function AboutMe(){
                     <Grid item>
                         <Avatar
                             alt="My Username"
-                            src="https://lakeoktransport.ca/images/avataaars3.png"
+                            src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"
                             sx={{ width: 60, height: 60 }}
                         />
                     </Grid>
                     <Grid item>
-                        <Typography color="textSecondary" variant='h6'> Sahan Sulakshana Silva </Typography>
+                        <Typography color="textSecondary" variant='h6'> Kavinu Chenul </Typography>
                         <Typography > Expertise : HTML, C#, Processing, React </Typography>
-                        <Typography > Hi my name is Sahan Sulakshana Silva. I am a Software Developer. </Typography>
+                        <Typography > Hi my name is Kavinu Chenul. I am a Software Developer. I'm 14 years old. I study at President's College - Kotte </Typography>
                     </Grid>
                 </Grid>
                 <hr></hr>
@@ -89,14 +89,14 @@ function AboutMe(){
                     <Grid item>
                         <Avatar
                             alt="My Username"
-                            src="https://lakeoktransport.ca/images/avataaars4.png"
+                            src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"
                             sx={{ width: 60, height: 60 }}
                         />
                     </Grid>
                     <Grid item>
-                        <Typography color="textSecondary" variant='h6'> Rusira Samarasekara </Typography>
+                        <Typography color="textSecondary" variant='h6'> Nethum Shakya </Typography>
                         <Typography > Expertise : HTML, C#, Processing, React </Typography>
-                        <Typography > Hi my name is Rusira Samarasekara. I am a Software Developer. </Typography>
+                        <Typography > Hi my name is Nethum Shakya. I am a Software Developer. I'm 14 years old. I study at President's College - Kotte </Typography>
                     </Grid>
                 </Grid>
             </CardContent>
