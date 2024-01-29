@@ -11,10 +11,10 @@ const UserProfile = ()  => {
         email : 'evin_kandubodaarachchi@yahoo.com',
         description : 'I am a programming enthusiast!',
         hobby : '',
-        hometown : '',
-        age : '',
-        phone : '0112222222',
-        ambition : ''
+        hometown : 'Kaduwela',
+        age : '14',
+        phone : '+94766718318',
+        ambition : 'Software Engineer'
     };
 
     return (
@@ -40,6 +40,18 @@ const UserProfile = ()  => {
                 </Typography>
                 <Typography variant="subtitle1">
                     <strong>Email : </strong> {user.email}
+                </Typography>
+                <Typography variant="subtitle1">
+                    <strong>Phone Number : </strong> {user.phone}
+                </Typography>
+                <Typography variant="subtitle1">
+                    <strong>Age : </strong> {user.age}
+                </Typography>
+                <Typography variant="subtitle1">
+                    <strong>Home Town : </strong> {user.hometown}
+                </Typography>
+                <Typography variant="subtitle1">
+                    <strong>Ambition : </strong> {user.ambition}
                 </Typography>
                 <Typography variant="subtitle1">
                     <strong>Description : </strong> {user.description}
